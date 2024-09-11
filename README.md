@@ -13,3 +13,6 @@
    - **GET** - `http://localhost:3000/users/:id` - Filtra por um único usuário com base no `id`.
    - **GET** - `http://localhost:3000/users/faker/:numero_de_usuarios_que_deseja` - Para criar usuários fakes no banco
    - **POST**- `http://localhost:3000/user` - Para criar um usuário específico
+
+
+![image](https://github.com/user-attachments/assets/85aeaf0c-f09e-4704-81a9-cf40ef1717fe)
