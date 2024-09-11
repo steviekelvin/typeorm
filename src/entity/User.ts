@@ -19,7 +19,6 @@ export class User {
       to: (value: string) => {
         const encript = new Encript();
         return encript.execute(value);
-        return ;
       },
       from: (value: string) => {
         const encript = new Encript();

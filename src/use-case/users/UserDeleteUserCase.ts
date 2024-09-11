@@ -1,4 +1,3 @@
-import { UserParamsDTO } from "../../interfaces/UserParamsDTO";
 import { UserRepositoryInterface } from "../../interfaces/UserRepository.interface";
 
 export class UserDeleteUseCase {
